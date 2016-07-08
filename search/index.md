@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Search"
+title: "Cerca"
 date: 
 modified:
 excerpt:
