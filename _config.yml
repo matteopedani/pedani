@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: Pedani film productio
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: A simple and clean responsive Jekyll theme for words and photos. wow
 logo: site-logo.png
-url: https://mmistakes.github.io/so-simple-theme
+url: https://matteopedani.github.io/pedani
 
 # Jekyll configuration
 
@@ -36,9 +36,9 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: Matteo Pedani
   avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
+  email: matteo@pedani.it
   disqus-shortname: sosimpletheme
   twitter: mmistakes
   facebook: michaelrose
