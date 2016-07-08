@@ -1,8 +1,8 @@
 # Site wide configuration
 
 title: Pedani film production
-locale: it_IT
-description: Uno scatto un filmato,  una  persona 100 persone 1000 persone. Il mondo.
+locale: en_US
+description: Uno scatto un filmato,  una  persona 100 persone 1000 persone. Il mondo. 
 logo: site-logo.png
 url: https://matteopedani.github.io/pedani
 

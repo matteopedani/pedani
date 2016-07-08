@@ -6,11 +6,8 @@
 - title: Filmati
   url: /articles/
 
-#- title: Blog
-#  url: /blog/
-
-#- title: Theme Setup
-#  url: /theme-setup/
+- title: Blog
+  url: /blog/
 
 - title: cerca
   url: /search/
