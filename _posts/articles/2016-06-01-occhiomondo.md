@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OPcchiomondo"
+title: "Occhiomondo"
 excerpt: " "
 categories: articles
 tags: [Occhiomondo, video, Matteo Pedani]
