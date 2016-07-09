@@ -37,23 +37,23 @@ comments: true
 # Site owner
 owner:
   name: Matteo Pedani
-  avatar: michael-rose-photo.jpg
+  avatar: matteo-pedani-photo.jpg
   email: matteo@pedani.it
-  disqus-shortname: sosimpletheme
+  disqus-shortname: 
   twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  facebook: matteo.pedani
+  github: matteopedani
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram: 
   flickr:
-  tumblr: mademistakes
+  tumblr: 
   pinterest:
   weibo:
   google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-2
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+    plus: MatteoPedani
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify:

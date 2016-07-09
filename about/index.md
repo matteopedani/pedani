@@ -23,7 +23,7 @@ Per tenervi in contatto con noi potete scrivere a [Matteo Pedani <matteo@pedani.
 
 ### Curriculum di Matteo Pedani
 
-Potete scaricare il [Curriculum di Matteo Pedani](pdf/curriculum.pdf)  
+Potete scaricare il [curriculum di Matteo Pedani](pdf/curriculum.pdf)  
 
 
 
