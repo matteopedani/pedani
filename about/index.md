@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chi siamo
+title: Chi siamo 
 excerpt: "Ecco come vi possiamo aiutare"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
@@ -9,18 +9,21 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Noi siamo una piccola società di produzione.
+Per tenervi in contatto con noi potete scrivere a [Matteo Pedani <matteo@pedani.it></matteo@pedani.it>](mailto:matteo@pedani.it). oppure telefonare al 0699341466, cell 334363769090
 
-## So Simple Theme is all about:
+## Cosa realizziamo
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+* Documentari
+* Filmati
+* audio documentari
+* Montaggi scena 
+* Montaggio del suono 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
 
-[^1]: Example: *domain.com/category-name/post-title*
+### Curriculum di Matteo Pedani
+
+Potete scaricare il [Curriculum di Matteo Pedani](pdf/curriculum.pdf)  
+
+
+
