@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Il rapimento Gancia
+title: Il rapimento Gancia 2
 excerpt:
 categories:
   - articles
