@@ -9,11 +9,18 @@ modified: 2014-08-08T19:44:38.564948-04:00
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Noi siamo una piccola società di produzione.
+Io sono un filmake che ha creato una  piccola società di produzione.
 
-Per tenervi in contatto con noi potete scrivere a [Matteo Pedani <matteo@pedani.it></matteo@pedani.it>](mailto:matteo@pedani.it). 
+Per tenervi in contatto  potete scrivere a  
+[Matteo Pedani matteo@pedani.it](mailto:"Matteo Pedani"<matteo@pedani.it>). 
 
-oppure telefonare al 0699341466, cell 334363769090
+Via dell'alberata 3,  
+00046 Grottaferrata 
+
+
+telefono:  0699341466  
+cellulare: 334363769090  
+__
 
 ## Cosa realizziamo
 
@@ -26,7 +33,7 @@ oppure telefonare al 0699341466, cell 334363769090
 
 ### Curriculum di Matteo Pedani
 
-Potete scaricare il [curriculum di Matteo Pedani](/pdf/curriculum.pdf)  
+Potete scaricare il [curriculum di Matteo Pedani](pdf/curriculum.pdf)  
 
 
 
