@@ -4,7 +4,7 @@ locale: it_IT
 description: Uno scatto un filmato,  una  persona 100 persone 1000 persone. Il mondo. 
 logo: site-logo.png
 #url: https://matteopedani.github.io/pedaniurl: 
-url: http://www.pedani.it
+url: https://www.pedani.it
 #url: http://10.46.1.2/pedani
 
 # site color
@@ -47,7 +47,7 @@ owner:
   avatar: matteo-pedani-photo.jpg
   email: matteo@pedani.it
 #  disqus-shortname: matteopedani
-  twitter: mmistakes
+  twitter: matteo.pedani
   facebook: matteo.pedani
   github: matteopedani
 #  stackexchange:

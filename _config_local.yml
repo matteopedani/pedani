@@ -3,9 +3,8 @@ title: Pedani film production
 locale: it_IT
 description: Uno scatto un filmato,  una  persona 100 persone 1000 persone. Il mondo. 
 logo: site-logo.png
-#url: https://matteopedani.github.io/pedani
-#url: http://www.pedani.it
-url: http://10.46.1.2/pedani
+#url: https://matteopedani.github.io/pedaniurl: 
+url: https://iris.pedani.it
 
 # site color
 $body-color: #ebebeb;
@@ -38,6 +37,7 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 #disqus 
+
 comments: false
 
 # Site owner
@@ -45,8 +45,8 @@ owner:
   name: Matteo Pedani
   avatar: matteo-pedani-photo.jpg
   email: matteo@pedani.it
-  disqus-shortname: matteopedani
-  twitter: mmistakes
+#  disqus-shortname: matteopedani
+  twitter: matteo.pedani
   facebook: matteo.pedani
   github: matteopedani
 #  stackexchange:
