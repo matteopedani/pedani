@@ -33,7 +33,7 @@ __
 
 ### Curriculum di Matteo Pedani
 
-Potete scaricare il [curriculum di Matteo Pedani](pdf/curriculum.pdf)  
+Potete scaricare il [curriculum di Matteo Pedani](/pdf/curriculum.pdf)  
 
 
 
