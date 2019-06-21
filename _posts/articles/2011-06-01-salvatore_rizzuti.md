@@ -9,7 +9,7 @@ share: true
 modified: 2011-06-01T14:18:26-04:00
 ---
 
-<iframe width="560" 
+<iframe 
 	src="https://youtu.be/hjg3PQANafM" 
 	frameborder="0"  allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
