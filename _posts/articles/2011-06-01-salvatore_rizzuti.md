@@ -3,7 +3,7 @@ layout: post
 title: "Salvatore Rizzuti le mille forme dell'anima"
 excerpt: " "
 categories: articles
-tags: [RAI, video, Matteo Pedani, Pedani film productions, Salvatore Rizzuti, Mario Iaquone, Diana Cansano ]
+tags: [video, Matteo Pedani, Pedani film productions, Salvatore Rizzuti, Mario Iaquone, Diana Cansano, RAI]
 comments: true
 share: true
 modified: 2011-06-01T14:18:26-04:00
