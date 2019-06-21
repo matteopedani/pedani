@@ -8,11 +8,7 @@ comments: true
 share: true
 modified: 2011-06-01T14:18:26-04:00
 ---
-
-<iframe 
-	src="https://youtu.be/hjg3PQANafM" 
-	frameborder="0"  allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/hjg3PQANafM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Pascolava il gregge nella campagna vicino a Sciacca. Per  ammazzare il tempo scavava figure e volti umani nella radice d'olivo. Un talento naturale . Dalle opere dello scultore siciliano traspare tutto il candore di un artista cresciuto in solitudine, lontano da mode e sperimentalismi.
 I miti ancora si inverano: Salvatore Rizzuti pascolava le pecore nella campagna di Caltabellotta (aereo paese della provincia di Agrigento, con una campagna verde-argento di olivi che digrada verso Sciacca), aveva nove anni, aveva lasciato le scuole elementari dopo la terza e scolpiva pietre e radiche di olivi, le scavava a raffigurare volti umani, figure.
